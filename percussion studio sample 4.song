@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<song version="1" title="percussion studio sample 4" description="" tags="" web="">
+	<table>
+		<entry sid="PercussionStudio.gl4CowBellHi" iid="0" />
+		<entry sid="PercussionStudio.G2L4" iid="1" />
+		<entry sid="PercussionStudio.G3L4" iid="2" />
+		<entry sid="PercussionStudio.gl4dana" iid="3" />
+	</table>
+	<tracks>
+		<track volume="1" />
+		<track volume="1" />
+		<track volume="1" />
+		<track volume="1">
+			<block iid="0" time="24" volume="1" />
+			<block iid="0" time="14" volume="1" />
+			<block iid="0" time="16" volume="1" />
+			<block iid="0" time="18" volume="1" />
+			<block iid="0" time="20" volume="1" />
+			<block iid="0" time="22" volume="1" />
+		</track>
+		<track volume="1">
+			<block iid="1" time="18.01" volume="1" />
+			<block iid="1" time="16.01" volume="1" />
+			<block iid="1" time="2.01" volume="1" />
+			<block iid="1" time="0.01" volume="1" />
+			<block iid="1" time="6.01" volume="1" />
+			<block iid="1" time="4.01" volume="1" />
+			<block iid="1" time="10.01" volume="1" />
+			<block iid="1" time="8.01" volume="1" />
+			<block iid="1" time="12.01" volume="1" />
+			<block iid="1" time="14.01" volume="1" />
+		</track>
+		<track volume="0.9999994">
+			<block iid="2" time="26.01" volume="1" />
+			<block iid="2" time="24.01" volume="1" />
+			<block iid="2" time="30.01" volume="1" />
+			<block iid="2" time="28.01" volume="1" />
+			<block iid="2" time="12.01" volume="1" />
+			<block iid="2" time="14.01" volume="1" />
+			<block iid="2" time="8.01" volume="1" />
+			<block iid="2" time="10.01" volume="1" />
+			<block iid="2" time="20.01" volume="1" />
+			<block iid="2" time="22.01" volume="1" />
+			<block iid="2" time="16.01" volume="1" />
+			<block iid="2" time="18.01" volume="1" />
+		</track>
+		<track volume="0.9899994">
+			<block iid="3" time="24.01" volume="1" />
+			<block iid="3" time="28.01" volume="1" />
+			<block iid="3" time="12.01" volume="1" />
+			<block iid="3" time="8.01" volume="1" />
+			<block iid="3" time="20.01" volume="1" />
+			<block iid="3" time="16.01" volume="1" />
+		</track>
+		<track volume="1" />
+	</tracks>
+</song>

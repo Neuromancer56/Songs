@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<song version="1" title="percussion studio v2 sample 6" description="" tags="" web="">
+	<table>
+		<entry sid="Masa.Masa_trap" iid="0" />
+		<entry sid="PercussionStudio.LDejembe2" iid="1" />
+		<entry sid="Cognition.Road_Hi-Hater" iid="2" />
+		<entry sid="Beyond.beyond_beware" iid="3" />
+		<entry sid="Chronos.Chronos_tocatta_var_a" iid="4" />
+		<entry sid="Chronos.Chronos_tocatta_var_b" iid="5" />
+		<entry sid="PercussionStudio.DrumSet2" iid="6" />
+	</table>
+	<tracks>
+		<track volume="1">
+			<block iid="0" time="14" volume="1" />
+			<block iid="0" time="0" volume="1" />
+			<block iid="0" time="2" volume="1" />
+			<block iid="0" time="4" volume="1" />
+			<block iid="0" time="6" volume="0.6999999" />
+			<block iid="0" time="6" volume="0.6999999" />
+			<block iid="0" time="8" volume="1" />
+			<block iid="0" time="10" volume="1" />
+			<block iid="0" time="12" volume="1" />
+		</track>
+		<track volume="1">
+			<block iid="1" time="14" volume="1" />
+			<block iid="1" time="0" volume="1" />
+			<block iid="1" time="2" volume="1" />
+			<block iid="1" time="4" volume="1" />
+			<block iid="1" time="6" volume="1" />
+			<block iid="1" time="8" volume="1" />
+			<block iid="1" time="10" volume="1" />
+			<block iid="1" time="12" volume="1" />
+		</track>
+		<track volume="1">
+			<block iid="2" time="12" volume="1" />
+			<block iid="2" time="4" volume="1" />
+			<block iid="2" time="8" volume="1" />
+		</track>
+		<track volume="1">
+			<block iid="3" time="10" volume="1" />
+			<block iid="4" time="4" volume="1" />
+		</track>
+		<track volume="1">
+			<block iid="5" time="10" volume="1" />
+		</track>
+		<track volume="1" />
+		<track volume="1" />
+		<track volume="1">
+			<block iid="6" time="20" volume="1" />
+			<block iid="6" time="0" volume="1" />
+			<block iid="6" time="4" volume="1" />
+			<block iid="6" time="8" volume="1" />
+			<block iid="6" time="12" volume="1" />
+			<block iid="6" time="16" volume="1" />
+		</track>
+	</tracks>
+</song>

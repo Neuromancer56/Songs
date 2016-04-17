@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<song version="1" title="" description="" tags="" web="">
+	<table>
+		<entry sid="Syberia.syberia_prototype_var_a" iid="0" />
+		<entry sid="Syberia.syberia_prototype_var_f" iid="1" />
+		<entry sid="Syberia.syberia_birmania_var_a" iid="2" />
+		<entry sid="Syberia.syberia_pesto" iid="3" />
+		<entry sid="Masa.Masa_nemesis" iid="4" />
+		<entry sid="Cognition.Road_Hi-Hater" iid="5" />
+		<entry sid="Masa.Masa_branquia_var_a" iid="6" />
+		<entry sid="Masa.Masa_branquia_var_b" iid="7" />
+		<entry sid="Masa.Masa_trap" iid="8" />
+		<entry sid="Syberia.syberia_birmania_var_b" iid="9" />
+		<entry sid="Code.Code_Kickstarter" iid="10" />
+		<entry sid="Cognition.Road_Beat em up_var_a" iid="11" />
+		<entry sid="Cognition.Road_Beat em up_var_b" iid="12" />
+		<entry sid="Delusions.Delusions_Kick_me" iid="13" />
+	</table>
+	<tracks>
+		<track volume="0.5599994">
+			<block iid="0" time="0" volume="1" />
+			<block iid="1" time="8" volume="1" />
+		</track>
+		<track volume="1">
+			<block iid="2" time="4" volume="1" />
+			<block iid="2" time="0" volume="1" />
+		</track>
+		<track volume="0.5299994">
+			<block iid="3" time="28" volume="1" />
+			<block iid="4" time="30" volume="1" />
+			<block iid="3" time="24" volume="1" />
+			<block iid="4" time="26" volume="0.4777791" />
+			<block iid="3" time="20" volume="1" />
+			<block iid="4" time="22" volume="1" />
+			<block iid="3" time="16" volume="1" />
+			<block iid="4" time="18" volume="0.4777791" />
+			<block iid="3" time="12" volume="1" />
+			<block iid="4" time="14" volume="1" />
+			<block iid="3" time="8" volume="1" />
+			<block iid="4" time="10" volume="0.4777791" />
+			<block iid="3" time="4" volume="1" />
+			<block iid="4" time="6" volume="1" />
+			<block iid="3" time="0" volume="1" />
+			<block iid="4" time="2" volume="0.4777791" />
+		</track>
+		<track volume="1">
+			<block iid="5" time="24" volume="1" />
+			<block iid="5" time="0" volume="1" />
+			<block iid="5" time="4" volume="1" />
+			<block iid="5" time="8" volume="1" />
+			<block iid="5" time="12" volume="1" />
+			<block iid="5" time="16" volume="1" />
+			<block iid="5" time="20" volume="1" />
+		</track>
+		<track volume="0">
+			<block iid="6" time="0" volume="1" />
+			<block iid="7" time="2" volume="1" />
+			<block iid="2" time="8" volume="1" />
+			<block iid="8" time="6" volume="1" />
+			<block iid="9" time="10" volume="1" />
+			<block iid="10" time="14" volume="1" />
+			<block iid="11" time="16" volume="1" />
+			<block iid="12" time="20" volume="1" />
+			<block iid="13" time="24" volume="1" />
+		</track>
+		<track volume="1">
+			<block iid="9" time="0" volume="1" />
+			<block iid="9" time="4" volume="1" />
+		</track>
+		<track volume="1" />
+		<track volume="1" />
+	</tracks>
+</song>

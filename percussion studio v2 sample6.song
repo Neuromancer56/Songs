@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<song version="1" title="percussion studio v2 sample 6" description="" tags="" web="">
+	<table>
+		<entry sid="Retro.swishybeat" iid="0" />
+		<entry sid="PercussionStudio.gl4Kenkeni" iid="1" />
+		<entry sid="PercussionStudio.g1u" iid="2" />
+		<entry sid="Code.Code_silkhard_var_c" iid="3" />
+		<entry sid="Code.Code_silkhard_var_b" iid="4" />
+		<entry sid="Beyond.beyond_cymatic_var_a" iid="5" />
+		<entry sid="PercussionStudio.Drumset1a" iid="6" />
+	</table>
+	<tracks>
+		<track volume="1">
+			<block iid="0" time="8.01" volume="1" />
+			<block iid="0" time="0.01" volume="1" />
+			<block iid="0" time="2.01" volume="1" />
+			<block iid="0" time="4.01" volume="1" />
+			<block iid="0" time="12.01" volume="1" />
+			<block iid="0" time="10.01" volume="1" />
+		</track>
+		<track volume="1">
+			<block iid="1" time="22.01" volume="1" />
+			<block iid="1" time="18.01" volume="1" />
+			<block iid="1" time="20.01" volume="1" />
+			<block iid="1" time="4.01" volume="1" />
+			<block iid="1" time="0.01" volume="1" />
+			<block iid="1" time="2.01" volume="1" />
+			<block iid="1" time="10.01" volume="1" />
+			<block iid="1" time="6.01" volume="1" />
+			<block iid="1" time="8.01" volume="1" />
+			<block iid="1" time="16.01" volume="1" />
+			<block iid="1" time="12.01" volume="1" />
+			<block iid="1" time="14.01" volume="1" />
+		</track>
+		<track volume="1">
+			<block iid="2" time="0.01" volume="1" />
+			<block iid="2" time="12.01" volume="1" />
+			<block iid="2" time="4.01" volume="1" />
+			<block iid="2" time="8.01" volume="1" />
+		</track>
+		<track volume="0" />
+		<track volume="1">
+			<block iid="3" time="19.01" volume="1" />
+			<block iid="4" time="16.01" volume="1" />
+		</track>
+		<track volume="1">
+			<block iid="5" time="4.01" volume="1" />
+		</track>
+		<track volume="0">
+			<block iid="6" time="20.01" volume="1" />
+			<block iid="6" time="0.01" volume="1" />
+			<block iid="6" time="4.01" volume="1" />
+			<block iid="6" time="8.01" volume="1" />
+			<block iid="6" time="12.01" volume="1" />
+			<block iid="6" time="16.01" volume="1" />
+		</track>
+		<track volume="0" />
+	</tracks>
+</song>
