@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<song version="1" title="galactic swagger" description="" tags="" web="">
+	<table>
+		<entry sid="Syberia.syberia_Oldspice_var_a" iid="0" />
+		<entry sid="Syberia.syberia_Oldspice_var_b" iid="1" />
+		<entry sid="Code.Code_syntax_CK_var_a" iid="2" />
+		<entry sid="Code.Code_syntax_CK_var_b" iid="3" />
+		<entry sid="Code.Code_syntax_CK_var_c" iid="4" />
+		<entry sid="Code.Code_syntax_var_d" iid="5" />
+		<entry sid="Code.Code_syntax_var_e" iid="6" />
+		<entry sid="Code.Code_syntax_var_f" iid="7" />
+		<entry sid="Syberia.syberia_padre_var_a" iid="8" />
+		<entry sid="Syberia.syberia_padre_var_b" iid="9" />
+		<entry sid="Syberia.syberia_padre_var_c" iid="10" />
+		<entry sid="Syberia.syberia_padre_var_d" iid="11" />
+		<entry sid="Code.Code_silk_var_a" iid="12" />
+		<entry sid="Code.Code_silk_var_b" iid="13" />
+		<entry sid="Code.Code_silk_var_c" iid="14" />
+		<entry sid="PercussionStudio.shaker1" iid="15" />
+		<entry sid="PercussionStudio.uDjembe3Slow" iid="16" />
+	</table>
+	<tracks>
+		<track volume="1" />
+		<track volume="1" />
+		<track volume="1" />
+		<track volume="1">
+			<block iid="0" time="40" volume="1" />
+			<block iid="1" time="46" volume="1" />
+		</track>
+		<track volume="1">
+			<block iid="2" time="24" volume="1" />
+			<block iid="3" time="16" volume="1" />
+			<block iid="4" time="20" volume="1" />
+			<block iid="5" time="28" volume="1" />
+			<block iid="6" time="60" volume="1" />
+			<block iid="7" time="36" volume="1" />
+			<block iid="8" time="40" volume="1" />
+			<block iid="9" time="44" volume="1" />
+			<block iid="10" time="48" volume="1" />
+			<block iid="11" time="52" volume="1" />
+			<block iid="7" time="56" volume="1" />
+			<block iid="6" time="32" volume="1" />
+		</track>
+		<track volume="1">
+			<block iid="12" time="8" volume="1" />
+			<block iid="13" time="10" volume="1" />
+			<block iid="14" time="12" volume="1" />
+		</track>
+		<track volume="1">
+			<block iid="15" time="48" volume="1" />
+			<block iid="15" time="0" volume="1" />
+			<block iid="15" time="56" volume="1" />
+			<block iid="15" time="16" volume="1" />
+			<block iid="15" time="24" volume="1" />
+			<block iid="15" time="32" volume="1" />
+			<block iid="15" time="40" volume="1" />
+		</track>
+		<track volume="1">
+			<block iid="16" time="56" volume="1" />
+			<block iid="16" time="24" volume="1" />
+			<block iid="16" time="8" volume="1" />
+			<block iid="16" time="48" volume="1" />
+			<block iid="16" time="16" volume="1" />
+			<block iid="16" time="40" volume="1" />
+			<block iid="16" time="32" volume="1" />
+		</track>
+	</tracks>
+</song>

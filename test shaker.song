@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<song version="1" title="galactic swagger" description="" tags="" web="">
+	<table>
+		<entry sid="Cognition.Road_Dot" iid="0" />
+		<entry sid="Code.Code_syntax_var_c" iid="1" />
+		<entry sid="Code.Code_syntax_var_d" iid="2" />
+		<entry sid="Code.Code_syntax_var_a" iid="3" />
+		<entry sid="Code.Code_Terra" iid="4" />
+		<entry sid="PercussionStudio.shaker1" iid="5" />
+	</table>
+	<tracks>
+		<track volume="1" />
+		<track volume="1" />
+		<track volume="1">
+			<block iid="0" time="13" volume="1" />
+		</track>
+		<track volume="1" />
+		<track volume="1">
+			<block iid="1" time="5" volume="1" />
+			<block iid="2" time="9" volume="1" />
+		</track>
+		<track volume="1">
+			<block iid="3" time="1" volume="1" />
+		</track>
+		<track volume="1">
+			<block iid="4" time="4" volume="1" />
+		</track>
+		<track volume="1">
+			<block iid="5" time="0" volume="1" />
+			<block iid="5" time="8" volume="1" />
+			<block iid="5" time="16" volume="1" />
+			<block iid="5" time="24" volume="1" />
+		</track>
+	</tracks>
+</song>
