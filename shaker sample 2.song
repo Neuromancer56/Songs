@@ -24,45 +24,45 @@
 		<track volume="1" />
 		<track volume="1" />
 		<track volume="1">
-			<block iid="0" time="40" volume="1" />
-			<block iid="1" time="46" volume="1" />
+			<block iid="0" time="40.01" volume="1" />
+			<block iid="1" time="46.01" volume="1" />
 		</track>
 		<track volume="1">
-			<block iid="2" time="24" volume="1" />
-			<block iid="3" time="16" volume="1" />
-			<block iid="4" time="20" volume="1" />
-			<block iid="5" time="28" volume="1" />
-			<block iid="6" time="60" volume="1" />
-			<block iid="7" time="36" volume="1" />
-			<block iid="8" time="40" volume="1" />
-			<block iid="9" time="44" volume="1" />
-			<block iid="10" time="48" volume="1" />
-			<block iid="11" time="52" volume="1" />
-			<block iid="7" time="56" volume="1" />
-			<block iid="6" time="32" volume="1" />
+			<block iid="2" time="24.01" volume="1" />
+			<block iid="3" time="16.01" volume="1" />
+			<block iid="4" time="20.01" volume="1" />
+			<block iid="5" time="28.01" volume="1" />
+			<block iid="6" time="60.01" volume="1" />
+			<block iid="7" time="36.01" volume="1" />
+			<block iid="8" time="40.01" volume="1" />
+			<block iid="9" time="44.01" volume="1" />
+			<block iid="10" time="48.01" volume="1" />
+			<block iid="11" time="52.01" volume="1" />
+			<block iid="7" time="56.01" volume="1" />
+			<block iid="6" time="32.01" volume="1" />
 		</track>
 		<track volume="1">
-			<block iid="12" time="8" volume="1" />
-			<block iid="13" time="10" volume="1" />
-			<block iid="14" time="12" volume="1" />
+			<block iid="12" time="8.01" volume="1" />
+			<block iid="13" time="10.01" volume="1" />
+			<block iid="14" time="12.01" volume="1" />
 		</track>
 		<track volume="1">
-			<block iid="15" time="48" volume="1" />
-			<block iid="15" time="0" volume="1" />
-			<block iid="15" time="56" volume="1" />
-			<block iid="15" time="16" volume="1" />
-			<block iid="15" time="24" volume="1" />
-			<block iid="15" time="32" volume="1" />
-			<block iid="15" time="40" volume="1" />
+			<block iid="15" time="48.01" volume="1" />
+			<block iid="15" time="0.01" volume="1" />
+			<block iid="15" time="56.01" volume="1" />
+			<block iid="15" time="16.01" volume="1" />
+			<block iid="15" time="24.01" volume="1" />
+			<block iid="15" time="32.01" volume="1" />
+			<block iid="15" time="40.01" volume="1" />
 		</track>
 		<track volume="1">
-			<block iid="16" time="56" volume="1" />
-			<block iid="16" time="24" volume="1" />
-			<block iid="16" time="8" volume="1" />
-			<block iid="16" time="48" volume="1" />
-			<block iid="16" time="16" volume="1" />
-			<block iid="16" time="40" volume="1" />
-			<block iid="16" time="32" volume="1" />
+			<block iid="16" time="56.01" volume="1" />
+			<block iid="16" time="24.01" volume="1" />
+			<block iid="16" time="8.01" volume="1" />
+			<block iid="16" time="48.01" volume="1" />
+			<block iid="16" time="16.01" volume="1" />
+			<block iid="16" time="40.01" volume="1" />
+			<block iid="16" time="32.01" volume="1" />
 		</track>
 	</tracks>
 </song>
