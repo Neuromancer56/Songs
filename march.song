@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<song version="1" title="" description="" tags="" web="">
+	<table>
+		<entry sid="8 BIT PACK.8BIT19" iid="0" />
+		<entry sid="PercussionStudio.clap1" iid="1" />
+		<entry sid="ACID RYTHYM PACK 1.DRUM 06" iid="2" />
+		<entry sid="Code.Code_Monolith_CK_var_a" iid="3" />
+		<entry sid="Code.Code_Monolith_CK_var_c" iid="4" />
+		<entry sid="Code.Code_Monolith_CK_var_b" iid="5" />
+		<entry sid="Code.Code_Monolith_CK_var_d" iid="6" />
+		<entry sid="HIPHOP PACK 1.HIPHOP06" iid="7" />
+		<entry sid="HIPHOP PACK 1.HIPHOP04" iid="8" />
+		<entry sid="HIPHOP PACK 1.HIPHOP32" iid="9" />
+		<entry sid="TRAP PACK 1.DRUMSFULL10" iid="10" />
+		<entry sid="TRAP PACK 1.808BASS1" iid="11" />
+	</table>
+	<tracks>
+		<track volume="0.6799994">
+			<block iid="0" time="8" volume="1" />
+			<block iid="0" time="0" volume="1" />
+		</track>
+		<track volume="1">
+			<block iid="1" time="0" volume="1" />
+			<block iid="1" time="12" volume="1" />
+			<block iid="1" time="6" volume="1" />
+		</track>
+		<track volume="0.5299994">
+			<block iid="2" time="8" volume="1" />
+			<block iid="2" time="0" volume="1" />
+		</track>
+		<track volume="1">
+			<block iid="3" time="0" volume="1" />
+			<block iid="4" time="8" volume="1" />
+			<block iid="5" time="4" volume="1" />
+			<block iid="6" time="12" volume="1" />
+		</track>
+		<track volume="0.4399994">
+			<block iid="7" time="0" volume="1" />
+		</track>
+		<track volume="0.5299994">
+			<block iid="8" time="0" volume="1" />
+		</track>
+		<track volume="1">
+			<block iid="9" time="0" volume="1" />
+		</track>
+		<track volume="1">
+			<block iid="10" time="16" volume="1" />
+			<block iid="11" time="0" volume="1" />
+		</track>
+	</tracks>
+</song>

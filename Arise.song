@@ -1,0 +1,220 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<song version="1" title="" description="" tags="" web="">
+	<table>
+		<entry sid="TRAP PACK 2.PROGRESSIVEARP" iid="0" />
+		<entry sid="TRAP PACK 2.TRAPPINARP" iid="1" />
+		<entry sid="TRAP PACK 2.CHILLPAD1" iid="2" />
+		<entry sid="Syberia.syberia_pizzinato_var_b" iid="3" />
+		<entry sid="TRAP PACK 1.JUICYARP" iid="4" />
+		<entry sid="Syberia.syberia_pizzinato_var_a" iid="5" />
+		<entry sid="PercussionStudio.Drumset1" iid="6" />
+		<entry sid="PercussionStudio.Drumset1a" iid="7" />
+		<entry sid="PercussionStudio.gl4CowBellHi" iid="8" />
+		<entry sid="PercussionStudio.shaker1" iid="9" />
+		<entry sid="Beyond.beyond_rider_var_b" iid="10" />
+		<entry sid="Code.Code_silk_var_b" iid="11" />
+		<entry sid="Code.Code_silk_var_c" iid="12" />
+		<entry sid="Code.Code_silkhard_var_a" iid="13" />
+		<entry sid="Cognition.Road_Basic_var_c" iid="14" />
+		<entry sid="Beyond.beyond_sweet" iid="15" />
+		<entry sid="Cognition.Road_Basic_var_b" iid="16" />
+		<entry sid="Cognition.Road_Basic_var_a" iid="17" />
+		<entry sid="Cognition.Road_Basic_var_d" iid="18" />
+		<entry sid="Beyond.beyond_transgressor" iid="19" />
+		<entry sid="Code.Code_cloudlight" iid="20" />
+		<entry sid="Code.Code_arise" iid="21" />
+		<entry sid="Code.Code_DiveDee" iid="22" />
+		<entry sid="Code.Code_lapsus" iid="23" />
+		<entry sid="Code.Code_morse" iid="24" />
+		<entry sid="HIPHOP PACK 1.HIPHOP14" iid="25" />
+		<entry sid="ACID RYTHYM PACK 1.DRUM 01" iid="26" />
+	</table>
+	<tracks>
+		<track volume="0.5699994">
+			<block iid="0" time="64.02" volume="1" />
+			<block iid="0" time="16.02" volume="1" />
+			<block iid="1" time="32.02" volume="1" />
+			<block iid="2" time="0.02" volume="1" />
+			<block iid="3" time="108.02" volume="1" />
+			<block iid="4" time="88.02" volume="1" />
+			<block iid="5" time="104.02" volume="1" />
+		</track>
+		<track volume="0.5899994">
+			<block iid="6" time="112.02" volume="1" />
+			<block iid="6" time="114.02" volume="1" />
+			<block iid="7" time="116.02" volume="1" />
+			<block iid="6" time="0.03" volume="1" />
+			<block iid="6" time="2.03" volume="1" />
+			<block iid="7" time="4.03" volume="1" />
+			<block iid="6" time="8.030001" volume="1" />
+			<block iid="6" time="10.03" volume="1" />
+			<block iid="7" time="12.03" volume="1" />
+			<block iid="6" time="16.03" volume="1" />
+			<block iid="6" time="18.03" volume="1" />
+			<block iid="7" time="20.03" volume="1" />
+			<block iid="6" time="24.03" volume="1" />
+			<block iid="6" time="26.03" volume="1" />
+			<block iid="7" time="28.03" volume="1" />
+			<block iid="6" time="32.03" volume="1" />
+			<block iid="6" time="34.03" volume="1" />
+			<block iid="7" time="36.03" volume="1" />
+			<block iid="6" time="40.03" volume="1" />
+			<block iid="6" time="42.03" volume="1" />
+			<block iid="7" time="44.03" volume="1" />
+			<block iid="6" time="120.02" volume="1" />
+			<block iid="6" time="122.02" volume="1" />
+			<block iid="7" time="124.02" volume="1" />
+			<block iid="6" time="48.03" volume="1" />
+			<block iid="6" time="50.03" volume="1" />
+			<block iid="7" time="52.03" volume="1" />
+			<block iid="6" time="56.03" volume="1" />
+			<block iid="6" time="58.03" volume="1" />
+			<block iid="7" time="60.03" volume="1" />
+			<block iid="6" time="64.02" volume="1" />
+			<block iid="6" time="66.02" volume="1" />
+			<block iid="7" time="68.02" volume="1" />
+			<block iid="6" time="72.02" volume="1" />
+			<block iid="6" time="74.02" volume="1" />
+			<block iid="7" time="76.02" volume="1" />
+			<block iid="6" time="80.02" volume="1" />
+			<block iid="6" time="82.02" volume="1" />
+			<block iid="7" time="84.02" volume="1" />
+			<block iid="6" time="88.02" volume="1" />
+			<block iid="6" time="90.02" volume="1" />
+			<block iid="7" time="92.02" volume="1" />
+			<block iid="6" time="96.02" volume="1" />
+			<block iid="6" time="98.02" volume="1" />
+			<block iid="7" time="100.02" volume="1" />
+			<block iid="6" time="104.02" volume="1" />
+			<block iid="6" time="106.02" volume="1" />
+			<block iid="7" time="108.02" volume="1" />
+		</track>
+		<track volume="0.2899994">
+			<block iid="8" time="114.02" volume="1" />
+			<block iid="8" time="24.03" volume="1" />
+			<block iid="8" time="32.03" volume="1" />
+			<block iid="8" time="2.03" volume="1" />
+			<block iid="8" time="18.03" volume="1" />
+			<block iid="8" time="16.03" volume="1" />
+			<block iid="8" time="0.03" volume="1" />
+			<block iid="8" time="10.03" volume="1" />
+			<block iid="8" time="8.030001" volume="1" />
+			<block iid="8" time="26.03" volume="1" />
+			<block iid="8" time="34.03" volume="1" />
+			<block iid="8" time="42.03" volume="1" />
+			<block iid="8" time="122.02" volume="1" />
+			<block iid="8" time="40.03" volume="1" />
+			<block iid="8" time="112.02" volume="1" />
+			<block iid="8" time="120.02" volume="1" />
+			<block iid="8" time="50.03" volume="1" />
+			<block iid="8" time="58.03" volume="1" />
+			<block iid="8" time="48.03" volume="1" />
+			<block iid="8" time="56.03" volume="1" />
+			<block iid="8" time="66.02" volume="1" />
+			<block iid="8" time="74.02" volume="1" />
+			<block iid="8" time="64.02" volume="1" />
+			<block iid="8" time="72.02" volume="1" />
+			<block iid="8" time="82.02" volume="1" />
+			<block iid="8" time="90.02" volume="1" />
+			<block iid="8" time="80.02" volume="1" />
+			<block iid="8" time="88.02" volume="1" />
+			<block iid="8" time="98.02" volume="1" />
+			<block iid="8" time="106.02" volume="1" />
+			<block iid="8" time="96.02" volume="1" />
+			<block iid="8" time="104.02" volume="1" />
+		</track>
+		<track volume="1">
+			<block iid="9" time="112.02" volume="1" />
+			<block iid="9" time="0.03" volume="1" />
+			<block iid="9" time="8.030001" volume="1" />
+			<block iid="9" time="16.03" volume="1" />
+			<block iid="9" time="24.03" volume="1" />
+			<block iid="9" time="32.03" volume="1" />
+			<block iid="9" time="40.03" volume="1" />
+			<block iid="9" time="120.02" volume="1" />
+			<block iid="9" time="48.03" volume="1" />
+			<block iid="9" time="56.03" volume="1" />
+			<block iid="9" time="64.02" volume="1" />
+			<block iid="9" time="72.02" volume="1" />
+			<block iid="9" time="80.02" volume="1" />
+			<block iid="9" time="88.02" volume="1" />
+			<block iid="9" time="96.02" volume="1" />
+			<block iid="9" time="104.02" volume="1" />
+		</track>
+		<track volume="0.5899994">
+			<block iid="10" time="112.02" volume="1" />
+			<block iid="10" time="0.03" volume="1" />
+			<block iid="10" time="8.030001" volume="1" />
+			<block iid="10" time="16.03" volume="1" />
+			<block iid="10" time="24.03" volume="1" />
+			<block iid="10" time="32.03" volume="1" />
+			<block iid="10" time="40.03" volume="1" />
+			<block iid="10" time="120.02" volume="1" />
+			<block iid="10" time="48.03" volume="1" />
+			<block iid="10" time="56.03" volume="1" />
+			<block iid="10" time="64.02" volume="1" />
+			<block iid="10" time="72.02" volume="1" />
+			<block iid="10" time="80.02" volume="1" />
+			<block iid="10" time="88.02" volume="1" />
+			<block iid="10" time="96.02" volume="1" />
+			<block iid="10" time="104.02" volume="1" />
+		</track>
+		<track volume="0.9799994">
+			<block iid="11" time="42.02" volume="1" />
+			<block iid="12" time="44.02" volume="1" />
+			<block iid="13" time="40.02" volume="1" />
+			<block iid="14" time="52.02" volume="1" />
+			<block iid="15" time="24.02" volume="1" />
+			<block iid="16" time="50.02" volume="1" />
+			<block iid="17" time="48.02" volume="1" />
+			<block iid="18" time="54.02" volume="1" />
+			<block iid="19" time="65" volume="1" />
+			<block iid="20" time="96" volume="1" />
+			<block iid="21" time="88" volume="1" />
+			<block iid="22" time="112" volume="1" />
+			<block iid="22" time="20" volume="1" />
+			<block iid="23" time="4" volume="1" />
+			<block iid="24" time="16" volume="1" />
+		</track>
+		<track volume="0.9399994">
+			<block iid="14" time="12.03" volume="1" />
+			<block iid="16" time="10.03" volume="1" />
+			<block iid="17" time="8.030001" volume="1" />
+			<block iid="17" time="24.03" volume="1" />
+			<block iid="16" time="26.03" volume="1" />
+			<block iid="14" time="28.03" volume="1" />
+			<block iid="18" time="30.03" volume="1" />
+			<block iid="25" time="96.02" volume="1" />
+			<block iid="25" time="80.02" volume="0.9" />
+			<block iid="25" time="64.02" volume="1" />
+			<block iid="25" time="112.02" volume="1" />
+			<block iid="25" time="32.03" volume="1" />
+			<block iid="25" time="48.03" volume="1" />
+			<block iid="11" time="2.03" volume="1" />
+			<block iid="13" time="0.03" volume="1" />
+			<block iid="12" time="4.03" volume="1" />
+			<block iid="11" time="18.02" volume="1" />
+			<block iid="13" time="16.02" volume="1" />
+			<block iid="12" time="20.02" volume="1" />
+			<block iid="18" time="14.03" volume="1" />
+		</track>
+		<track volume="0.8999994">
+			<block iid="26" time="0.03" volume="1" />
+			<block iid="26" time="112.02" volume="1" />
+			<block iid="26" time="8.030001" volume="1" />
+			<block iid="26" time="16.03" volume="1" />
+			<block iid="26" time="24.03" volume="1" />
+			<block iid="26" time="32.03" volume="1" />
+			<block iid="26" time="40.03" volume="1" />
+			<block iid="26" time="120.02" volume="1" />
+			<block iid="26" time="48.03" volume="1" />
+			<block iid="26" time="56.03" volume="1" />
+			<block iid="26" time="64.02" volume="0.8" />
+			<block iid="26" time="72.02" volume="1" />
+			<block iid="26" time="80.02" volume="1" />
+			<block iid="26" time="88.02" volume="1" />
+			<block iid="26" time="96.02" volume="1" />
+			<block iid="26" time="104.02" volume="1" />
+		</track>
+	</tracks>
+</song>

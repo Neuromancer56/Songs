@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<song version="1" title="" description="" tags="" web="">
+	<table>
+		<entry sid="Code.Code_arise" iid="0" />
+		<entry sid="Code.Code_Darknight" iid="1" />
+		<entry sid="Code.Code_Deep black" iid="2" />
+		<entry sid="Code.Code_DiveDee" iid="3" />
+		<entry sid="Code.Code_Crysalis" iid="4" />
+		<entry sid="Code.Code_glide" iid="5" />
+		<entry sid="Cognition.Road_Basic_var_c" iid="6" />
+		<entry sid="Cognition.Road_Basic_var_b" iid="7" />
+		<entry sid="Cognition.Road_Bassa Nova_seq_var_a" iid="8" />
+		<entry sid="Cognition.Road_Genoma_effect" iid="9" />
+	</table>
+	<tracks>
+		<track volume="1">
+			<block iid="0" time="16" volume="1" />
+			<block iid="1" time="8" volume="1" />
+			<block iid="2" time="10" volume="1" />
+			<block iid="3" time="12" volume="1" />
+			<block iid="0" time="0" volume="1" />
+		</track>
+		<track volume="1">
+			<block iid="4" time="3" volume="1" />
+		</track>
+		<track volume="1">
+			<block iid="5" time="14" volume="1" />
+		</track>
+		<track volume="1">
+			<block iid="6" time="16" volume="1" />
+			<block iid="7" time="18" volume="1" />
+		</track>
+		<track volume="1">
+			<block iid="8" time="16" volume="1" />
+			<block iid="8" time="18" volume="1" />
+		</track>
+		<track volume="1">
+			<block iid="9" time="16" volume="1" />
+		</track>
+		<track volume="1" />
+		<track volume="1" />
+	</tracks>
+</song>
